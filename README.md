@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ganeshkillare" alt="ganeshkillare" /></a> </p>
 
-- 🌱 I’m currently learning **Java, Selenium, TestNG, API Testing**
+- 🌱 I’m currently learning **API Testing**
 
 - 💬 Ask me about **write the Test Cases using Hybrid Framework in Automation.**
 
