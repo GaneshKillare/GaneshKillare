@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java, Selenium, TestNG, API Testing**
 
-- 💬 Ask me about **Expert In write the Test Cases using Hybrid Framework in Automation.**
+- 💬 Ask me about **write the Test Cases using Hybrid Framework in Automation.**
 
 - 📫 How to reach me **ganeshkillare11@gmail.com**
 
